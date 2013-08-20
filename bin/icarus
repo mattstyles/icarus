@@ -10,3 +10,5 @@
 process.title = 'icarus';
 
 var icarus = require('../lib/icarus').cli;
+
+icarus.start();
