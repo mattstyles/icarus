@@ -16,7 +16,13 @@
     "type": "git",
     "url": "git://github.com/mattstyles/icarus.git"
   },
-  "keywords": [ "Node", "Deploy", "NPM", "Server", "CLI" ],
+  "keywords": [
+    "Node",
+    "Deploy",
+    "NPM",
+    "Server",
+    "CLI"
+  ],
   "author": {
     "name": "mattstyles",
     "email": "matt@veryfizzyjelly.com",
@@ -36,5 +42,9 @@
     "grunt-jsonmin": "~0.2.4",
     "grunt-contrib-clean": "~0.5.0",
     "grunt-contrib-jshint": "~0.6.3"
+  },
+  "dependencies": {
+    "commander": "~2.0.0",
+    "colors": "~0.6.1"
   }
 }

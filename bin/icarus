@@ -1,6 +1,12 @@
 #!/usr/bin/env node
+/*
+ * icarus
+ * https://github.com/mattstyles/icarus
+ *
+ * Copyright (c) 2013 Matt Styles
+ * Licensed under the MIT license.
+ */
 
 process.title = 'icarus';
 
-var icarus = require('../lib/icarus.js');
-
+var icarus = require('../lib/icarus').cli;
