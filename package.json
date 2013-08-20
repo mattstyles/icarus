@@ -1,0 +1,42 @@
+{
+  "name": "icarus",
+  "version": "0.1.0",
+  "description": "Node Environment Deployment Manager",
+  "main": "./lib/icarus.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "bin": {
+    "icarus": "./bin/icarus"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattstyles/icarus.git"
+  },
+  "keywords": [
+    "Node",
+    "Deploy",
+    "NPM",
+    "Server",
+    "CLI"
+  ],
+  "author": {
+    "name": "mattstyles",
+    "email": "matt@veryfizzyjelly.com",
+    "url": "veryfizzyjelly.com",
+    "twitter": "@veryfizzyjelly"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/mattstyles/icarus/blob/master/LICENSE-MIT"
+  },
+  "bugs": {
+    "url": "https://github.com/mattstyles/icarus/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1"
+  }
+}
