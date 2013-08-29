@@ -1,6 +1,6 @@
 {
   "name": "icarus",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Node Environment Deployment Manager",
   "main": "./lib/icarus.js",
   "scripts": {
@@ -41,8 +41,7 @@
     "matchdep": "~0.1.2",
     "grunt-jsonmin": "~0.2.4",
     "grunt-contrib-clean": "~0.5.0",
-    "grunt-contrib-jshint": "~0.6.3",
-    "prompt": "~0.2.11"
+    "grunt-contrib-jshint": "~0.6.3"
   },
   "dependencies": {
     "commander": "~2.0.0",
@@ -51,6 +50,7 @@
     "winston": "~0.7.2",
     "underscore": "~1.5.1",
     "superagent": "~0.15.4",
-    "querystring": "~0.2.0"
+    "querystring": "~0.2.0",
+    "prompt": "~0.2.11"
   }
 }
