@@ -7,7 +7,8 @@
     "test": "echo 'no tests specified'"
   },
   "bin": {
-    "icarus": "./bin/icarus"
+    "icarus": "./bin/icarus",
+    "icarus-server": "./bin/icarus-server"
   },
   "engines": {
     "node": ">= 0.8.0"
@@ -51,6 +52,7 @@
     "underscore": "~1.5.1",
     "superagent": "~0.15.4",
     "querystring": "~0.2.0",
-    "prompt": "~0.2.11"
+    "prompt": "~0.2.11",
+    "express": "~3.3.7"
   }
 }

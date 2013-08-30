@@ -1,0 +1,12 @@
+#!/usr/bin/env node
+/*
+ * icarus
+ * https://github.com/mattstyles/icarus
+ *
+ * Copyright (c) 2013 Matt Styles
+ * Licensed under the MIT license.
+ */
+
+var icarus = require('../lib/icarus').server;
+
+icarus.start();
