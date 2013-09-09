@@ -3,6 +3,7 @@
 ## v0.1.2 - 09.09.13
 
 * Place the tarred folder into an archive folder locally
+* Remove any existing deploy from the server
 
 ## v0.1.1 - 03.09.13
 
