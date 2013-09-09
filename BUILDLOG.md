@@ -1,6 +1,10 @@
 # Icarus Build-log
 
-## v0.1.1 - 03.11.13
+## v0.1.2 - 09.09.13
+
+* Place the tarred folder into an archive folder locally
+
+## v0.1.1 - 03.09.13
 
 * Tar a project folder
 * Stream the tar to the server
