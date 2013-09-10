@@ -1,6 +1,6 @@
 {
   "name": "icarus",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Node Environment Deployment Manager",
   "main": "./lib/icarus.js",
   "scripts": {

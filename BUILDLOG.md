@@ -1,8 +1,13 @@
 # Icarus Build-log
 
+## v0.1.3 - 10.09.13
+
+* Use the tmp tar as a deploy artifact
+* Store the tmp as an artifact and deploy it
+
 ## v0.1.2 - 09.09.13
 
-* Place the tarred folder into an archive folder locally
+* Place the tarred folder into a temp folder locally
 * Remove any existing deploy from the server
 
 ## v0.1.1 - 03.09.13
