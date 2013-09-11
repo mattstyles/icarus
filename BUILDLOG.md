@@ -1,9 +1,14 @@
 # Icarus Build-log
 
+## v0.1.5 - _in progress_
+
+* Allow deploy from a built folder
+* Added build step to the deployment process
+* socket.io used to provide better feedback
+
 ## v0.1.4 - 11.09.13
 
 * Better user feedback via use of a progress bar
-* socket.io used to provide better feedback
 
 ## v0.1.3 - 10.09.13
 
