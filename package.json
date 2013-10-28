@@ -51,7 +51,6 @@
     "winston": "~0.7.2",
     "underscore": "~1.5.1",
     "superagent": "~0.15.4",
-    "querystring": "~0.2.0",
     "prompt": "~0.2.11",
     "express": "~3.3.7",
     "tar": "~0.1.18",
