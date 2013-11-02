@@ -1,6 +1,6 @@
 {
   "name": "icarus",
-  "version": "0.1.5",
+  "version": "0.2.0-alpha",
   "description": "Node Environment Deployment Manager",
   "main": "./lib/icarus.js",
   "scripts": {
@@ -50,7 +50,6 @@
     "async": "~0.2.9",
     "winston": "~0.7.2",
     "underscore": "~1.5.1",
-    "superagent": "~0.15.4",
     "prompt": "~0.2.11",
     "express": "~3.3.7",
     "tar": "~0.1.18",
@@ -58,6 +57,7 @@
     "socket.io": "~0.9.16",
     "socket.io-client": "~0.9.16",
     "progress": "~1.0.1",
-    "rimraf": "~2.2.2"
+    "rimraf": "~2.2.2",
+    "request": "~2.27.0"
   }
 }

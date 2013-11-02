@@ -1,5 +1,15 @@
 # Icarus Build-log
 
+## v0.2.0 -
+
+* Expose an external config file
+* Updates to utils and config
+* Feedback build step stats
+* Switch from superagent to request
+* Start handling some errors
+* Add custom log levels
+* Deploy from github
+
 ## v0.1.5 - 01.10.13
 
 * Allow deploy from a built folder
