@@ -1,6 +1,6 @@
 # Icarus Build-log
 
-## v0.2.0 -
+## v0.2.0 - 02.11.13
 
 * Expose an external config file
 * Updates to utils and config
