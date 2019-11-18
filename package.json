@@ -58,6 +58,6 @@
     "socket.io-client": "~0.9.16",
     "progress": "~1.0.1",
     "rimraf": "~2.2.2",
-    "request": "~2.27.0"
+    "request": "~2.88.0"
   }
 }
